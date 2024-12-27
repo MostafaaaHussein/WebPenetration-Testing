@@ -35,6 +35,8 @@
   - Admin paths are easily discoverable.
   - Unauthorized users can locate the admin panel, increasing the likelihood of brute-force attempts and exploitation.
 
+![Admin Path Enumeration](https://github.com/MostafaaaHussein/WebPenetration-Testing/blob/main/IMG-20241227-WA0077.jpg?raw=true)
+
 #### 2. SQL Injection
 - **Critical Vulnerabilities**:
   - User input is not sanitized, making the database susceptible to unauthorized access or manipulation.
@@ -55,6 +57,8 @@
 - **Conclusion**:
   - Improper input validation allows attackers to manipulate SQL queries.
   - Potential compromise of sensitive data and database integrity.
+
+![SQL Injection Attack](https://github.com/MostafaaaHussein/WebPenetration-Testing/blob/main/IMG-20241227-WA0078.jpg?raw=true)
 
 #### 3. Brute Force on Admin Credentials
 - **Critical Vulnerabilities**:
@@ -93,6 +97,8 @@
 - **Conclusion**:
   - Lack of proper input sanitization allows XSS attacks.
   - Risk of malicious scripts executing in users' browsers.
+
+![XSS Attack](https://github.com/MostafaaaHussein/WebPenetration-Testing/blob/main/IMG-20241227-WA0087.jpg?raw=true)
 
 ---
 
