@@ -79,7 +79,7 @@
 - **Conclusion**:
   - Weak protections on the admin login page allow brute-force attempts.
   - Risk of full application compromise through admin credential theft.
-
+  -![Brute Force on Admin Attack](  https://github.com/MostafaaaHussein/WebPenetration-Testing/blob/main/IMG-20241227-WA0083.jpg?raw=true)
 #### 4. XSS in Product Search
 - **Critical Vulnerabilities**:
   - Improperly sanitized user inputs allow malicious scripts to execute in users' browsers.
